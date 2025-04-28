@@ -1,7 +1,7 @@
 import { KiteConnect } from "kiteconnect";
 const apiKey = "";
-//const apiSecret = "e70zzqof0w4lu37yn1kr9uydp8vzb34c";
-//const requestToken = "I7dTX2IQPGPyEdxPItqbTcqgxrL0v6On";
+//const apiSecret = "";
+//const requestToken = "";
 
 let accessToken=""; //expire in a day
 
