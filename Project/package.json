@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.10.2",
+    "kiteconnect": "^5.0.1",
+    "zod": "^3.24.3"
+  }
+}
